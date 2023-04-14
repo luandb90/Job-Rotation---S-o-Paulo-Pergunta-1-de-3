@@ -1,0 +1,4 @@
+def inverter(txt):
+    return txt[::-1]
+
+print(inverter("Escreva um programa que inverta os caracteres de um string."))
